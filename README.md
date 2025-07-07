@@ -1,8 +1,11 @@
 # Dashboard-of-global-Superstore-Sales-Analysis
+
 📝 Short Description / Purpose:-
+
 This Power BI dashboard provides a comprehensive analysis of the sales performance of a global retail company. It aims to uncover insights into sales trends, profit margins, regional performance, and customer behavior to support strategic business decisions.
 
 🛠️ Tech Stack:-
+
 --Power BI Desktop
 
 --DAX (Data Analysis Expressions)
@@ -12,9 +15,11 @@ This Power BI dashboard provides a comprehensive analysis of the sales performan
 --Microsoft Excel (for data manipulation)
 
 📂 Data Source:-
+
 The dataset is sourced from the Global Superstore dataset, a sample retail dataset containing information about orders, returns, sales, profits, customers, products, and geographical data from around the world.
 
 ✨ Features / Highlights:-
+
 --Sales and Profit KPIs: Dynamic visualizations for Total Sales, Total Profit, Profit Ratio, and Total Quantity.
 
 --Regional & Segment Analysis: Breakdown of sales and profit by Region, Country, and Customer Segment.
@@ -28,6 +33,7 @@ The dataset is sourced from the Global Superstore dataset, a sample retail datas
 --Returns Dashboard: Highlights returned orders and their impact on overall performance.
 
 💼 Business Problem:-
+
 --Retail businesses often struggle with identifying what drives their profit and where they are incurring losses. This dashboard solves that by providing:
 
 --Clear visibility into the most profitable regions and products.
