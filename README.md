@@ -2,7 +2,7 @@
 
 📝 Short Description / Purpose:-
 
-This Power BI dashboard provides a comprehensive analysis of the sales performance of a global retail company. It aims to uncover insights into sales trends, profit margins, regional performance, and customer behavior to support strategic business decisions.
+This Power BI dashboard provides a comprehensive analysis of the sales performance of a global retail company. It aims to uncover insights into sales trends, profit margins, regional performance, and customer behavior to support strategic business decisions. This Power BI dashboard provides a comprehensive visual analysis of the Global Superstore dataset, focusing on sales performance, profit trends, regional performance, and customer segmentation. It aims to assist stakeholders in identifying growth opportunities and addressing performance bottlenecks.
 
 🛠️ Tech Stack:-
 
@@ -12,7 +12,9 @@ This Power BI dashboard provides a comprehensive analysis of the sales performan
 
 --Power Query (M Language)
 
---Microsoft Excel (for data manipulation)
+--Data Modelling
+
+--Interactive Visualizations
 
 📂 Data Source:-
 
@@ -43,4 +45,16 @@ The dataset is sourced from the Global Superstore dataset, a sample retail datas
 --Time-based trends for forecasting demand and managing inventory.
 
 --Customer behavior analysis to improve marketing and sales strategies.
+
+📈  Business Impact & Key Insights:--
+ 
+--Identified least profitable segments and countries to refine marketing strategy
+
+-- Highlighted regions with high sales but negative profit margins, indicating discount issues
+
+-- Optimized logistics by analyzing shipment mode efficiency and delivery delays
+
+-- Boosted executive decision-making with an interactive and real-time dashboard
+
+-- Enabled data-driven forecasting for product demand and inventory planning
 
